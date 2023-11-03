@@ -1,9 +1,3 @@
-"""
-This code use selenium and PhantomJS.
-You have to install PhantomJS on following link.
-http://phantomjs.org/download.html
-"""
-
 import json
 import re
 
